@@ -1,0 +1,116 @@
+/
+Go Back
+VENTUNO Q
+VENTUNO
+Boards
+VENTUNO Q
+MKR Family
+UNO Family
+Nano Family
+Portenta Family
+Pro Solutions and Kits
+Nicla Family
+Opta
+Education
+Kits
+Mega
+Modulino
+Classic
+Accessories
+Home / Hardware / VENTUNO Q
+VENTUNO Q
+
+The Arduino VENTUNO Q is the edge AI computer that redefines what is possible at the edge, serving as the definitive powerhouse for AI and robotics applications. At its core lies a revolutionary Dual-Brain architecture: the robust Qualcomm Dragonwing™ IQ8 delivers up to 40 dense TOPS of AI compute for advanced computer vision and local LLMs, while the dedicated STM32H5 Microcontroller ensures the low-latency precision required for complex motor control and robotics.
+
+USER MANUAL
+ARDUINO APP LAB
+Pinout
+Buy now
+DOWNLOADABLE RESOURCES
+Pinout (PDF)
+Datasheet
+Schematics
+CAD Files
+STEP Files
+Power Tree
+Block Diagram
+Overview
+Features
+Tutorials (32)
+Tech Specs
+Compatibility
+Suggested Libraries
+
+The Arduino® VENTUNO™ Q integrates the Qualcomm® Dragonwing™ IQ8 (QCS8275) Microprocessor (MPU), running a full Ubuntu Linux environment (with Debian support coming soon), with the STMicroelectronics® STM32H5F5 Microcontroller (MCU) built on Arm® Cortex®-M33 architecture. This dual-architecture platform brings together Linux and microcontroller worlds through a built-in RPC library, so you can create powerful, responsive applications in one seamless workflow with Arduino App Lab.
+
+Arduino App Lab combines Arduino sketches, Python scripts, and AI models into ready-to-run apps. The board features integrated Wi-Fi® 6 connectivity for fast, reliable data transfer, alongside a comprehensive suite of built-in connectors, including high-speed USB 3.0, HDMI, 2.5 Gb Ethernet, and expandable NVMe Gen.4 storage.
+
+Advanced AI at the Edge
+Run powerful AI Models securely on-device with the 40 dense TOPS NPU:
+Local LLM & VLM: Low-latency reasoning without cloud constraints.
+Speech-to-Text & Text-to-Speech: Two-way voice interaction with local transcription.
+Object Detection: Classify and track objects in complex scenes for advanced machine vision and automation.
+Qualcomm Dragonwing™ IQ8
+Includes the powerful Qualcomm Dragonwing™ IQ8 (QCS8275) processor featuring:
+Octa-core Arm® Cortex®
+Adreno GPU/VPU: Arm® Cortex® A623 at 877 MHz
+Hexagon Tensor AI Processor (NPU): up to 40 dense TOPS
+Qualcomm Spectra 692 ISP
+OVERVIEW
+STM32H5F5 Arm® Cortex®-M33 32-bit MCU
+The VENTUNO Q integrates the STM32H5F5 microcontroller featuring:
+Arm® Cortex®-M33 at 250 MHz
+4 MB flash memory
+1.5 MB RAM
+Comprehensive Connectivity
+The VENTUNO Q ensures you remain connected and ready to execute with a comprehensive suite of built-in connectors:
+1x 2.5Gbit RJ45 Ethernet
+1x HDMI muxed with MIPI DSI
+1x USB-C port with host/device role switching and video output
+2x USB 3.0 Type A
+Wi-Fi® 6 2.4/5/6 GHz and Bluetooth® 5.3
+Seamless Expandability
+Unlock unprecedented hardware possibilities natively:
+UNO Shield Headers: Compatible with the vast library of Arduino UNO Shields.
+Qwiic Connector: Instant access to Modulino® nodes and sensors without soldering.
+M.2 Connector: NVMe Gen.4 external storage expansion.
+Carrier Headers (JMEDIA, JMISC, JOMEGA): Bridging high-speed cameras, displays, audio, or precise motor control.
+40-Pin Header: Compatible with standard Raspberry Pi HATs to tap into a massive ecosystem of SBC accessories.
+Arduino App Lab
+The converging point of development across NPU, CPU, GPU, and MCU platforms, uniting embedded (sketch) programming, Linux development, and edge AI.
+Standalone Mode: Runs directly on VENTUNO Q, just plug in a monitor, keyboard, and mouse.
+PC-Connected Mode: Connect via USB-C or network and run Arduino App Lab on your PC.
+Networked Mode: Run VENTUNO Q headless, no display or keyboard needed. Access remotely over Wi-Fi® or Ethernet.
+Discover More
+Dragonwing Documentation 
+
+Explore more documentation for VENTUNO Q on the Dragonwing Documentation page.
+
+Edge Impulse Documentation 
+
+Explore more documentation for VENTUNO Q at Edge Impulse.
+
+Qualcomm AI Hub 
+
+Explore models for VENTUNO Q at Qualcomm AI Hub.
+
+Certifications
+CE
+UKCA
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+Was this article helpful?
+Back to top
+© 2026 Arduino
+Trademarks & Copyrights
+Whistleblowing
+Digital Services Act
+Terms of Service
+Privacy Policy
+Security
+Cookie Settings

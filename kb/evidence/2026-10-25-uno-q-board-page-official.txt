@@ -1,0 +1,133 @@
+/
+Go Back
+UNO Q
+VENTUNO
+MKR Family
+UNO Family
+Boards
+UNO Mini Limited Edition
+UNO Q
+UNO R4 Minima
+UNO R4 WiFi
+UNO R3
+UNO R3 SMD
+UNO WiFi Rev2
+Carriers
+UNO Breakout Carrier
+UNO Media Carrier
+Shields
+4 Relays Shield
+9 Axis Motion Shield
+Ethernet Shield Rev2
+Motor Shield Rev3
+UNO SPE Shield
+Nano Family
+Portenta Family
+Pro Solutions and Kits
+Nicla Family
+Opta
+Education
+Kits
+Mega
+Modulino
+Classic
+Accessories
+Home / Hardware / UNO Q
+UNO Q
+
+The Arduino UNO Q unlocks a new level of performance for the Arduino ecosystem, blending robust computing power from Qualcomm's advanced Dragonwing™ QRB2210 MPU running a full Debian Linux OS with upstream support, and the real-time responsiveness of a dedicated STM32U585 MCU running Arduino sketches over Zephyr OS - all on a single-board computer.
+
+USER MANUAL
+ARDUINO APP LAB
+Pinout
+Buy now
+DOWNLOADABLE RESOURCES
+Pinout (PDF)
+Datasheet
+Schematics
+CAD Files
+STEP Files
+Overview
+Features
+Tutorials (13)
+Tech Specs
+Compatibility
+Suggested Libraries
+
+The Arduino® UNO Q integrates the Qualcomm® QRB2210 Microprocessor (MPU), running a full Debian-based Linux environment, with the STMicroelectronics® STM32U585 Microcontroller (MCU) built on Arm® Cortex®-M33 architecture, all within the compact UNO form factor. This dual-architecture platform combines high-performance computing with deterministic real-time control, delivering the power and versatility needed for modern AI at the edge applications.
+
+Unlock hybrid development with Arduino App Lab, seamlessly uniting Python applications, Arduino sketches, and AI models in a single workflow. From AI-powered vision and sound solutions that react intelligently to their environment to sophisticated smart home systems, UNO Q with Arduino App Lab delivers next-generation embedded innovation to makers, educators, and professionals alike. At the same time, developers enjoy true freedom of choice: program the MCU subsystem with the Arduino IDE, or integrate Arduino CLI into existing workflows with popular editors like VS Code.
+
+Qualcomm Dragonwing™ QRB2210
+Includes the powerful Qualcomm Dragonwing™ QRB2210 processor featuring:
+Quad-core Arm® Cortex®-A53 @ 2.0 GHz
+Adreno GPU 3D graphics accelerator
+2x ISP (13 MP + 13 MP or 25 MP) @ 30 fps
+OVERVIEW
+STM32U585 Arm® Cortex®-M33 32-bit MCU
+The UNO Q integrates the STM32U585 microcontroller featuring:
+Arm® Cortex®-M33 up to 160 MHz
+2 MB flash memory
+786 kB SRAM
+Floating Point Unit
+DATASHEET
+Single-Board Computer
+You can use the UNO Q as a standalone single-board computer leveraging its built-in Debian Linux environment. By using a USB-C dongle with external power delivery connected to the UNO Q USB-C port, you can connect:
+HDMI display
+Mouse and keyboard
+USB camera
+USB drive
+Ethernet cable
+microSD card
+USB microphone
+USB headphones
+Note: Recommended with the 4 GB RAM UNO Q variant.
+Debian Linux OS
+The Arduino UNO Q features a built-in Debian Linux environment with upstream support powered by its high-performance application processor, allowing you to develop in a familiar Linux environment without additional hardware.
+Wireless Connectivity
+The WCBN3536A wireless module allows to simultaneously manage WiFi® and Bluetooth® connectivity. The module features:
+Wi-Fi® 5 Dual-band (2.4/5 GHz) with onboard antenna
+Bluetooth® 5.1 with onboard antenna
+Easily Expandable
+Take the UNO Q even further with its expandability leveraging the following features:
+Qwiic connector for seamless compatibility with Modulino nodes
+Traditional UNO headers allowing you to stack official or custom shields on top of the UNO Q
+New bottom high-speed connectors for using carriers to connect MIPI-CSI cameras, MIPI-DSI displays, analog audio, and much more
+Multiple IDE Compatibility
+The UNO Q is designed for flexible development, with first-class support for the Arduino App Lab and compatibility with the latest Arduino IDE 2.0+.
+Arduino App Lab – Develop for both the onboard MPU and MCU with ease. Recommended for a full development experience.
+Arduino IDE 2.0+ – Program only the MCU using the beloved Arduino IDE.
+Remote Procedure Call (RPC)
+A built-in RPC library (i.e., Arduino Bridge) brings together the MPU running Linux and the microcontroller so you can create powerful and responsive applications in both worlds.
+Certifications
+ICASA
+Anatel
+WPC
+IMDA
+FCC (DTS)
+FCC (DSS)
+NCC
+KC
+FCC (NII)
+CE
+UKCA
+ISED
+SRRC
+OFCA
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+Was this article helpful?
+Back to top
+© 2026 Arduino
+Trademarks & Copyrights
+Whistleblowing
+Digital Services Act
+Terms of Service
+Privacy Policy
+Security
+Cookie Settings
