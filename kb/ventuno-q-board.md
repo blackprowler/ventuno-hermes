@@ -1,12 +1,11 @@
 # VENTUNO Q — Board Reference (living document)
 
-Sources (captured 2026-10-25): `kb/evidence/2026-10-25-board-page-official.txt` (docs.arduino.cc/hardware/ventuno-q), `kb/evidence/2026-10-25-store-page-official.txt` (store.arduino.cc product page). All facts below are backed by those captures.
+Sources (captured 2026-10-25): `kb/evidence/2026-10-25-board-page-official.txt` (docs.arduino.cc/hardware/ventuno-q), `kb/evidence/2026-10-25-store-usa-page-official.txt` (store-usa.arduino.cc — **the exact page Illia's units were bought from**), `kb/evidence/2026-10-25-store-page-official.txt` (EU store; identical SKU/barcode/specs, EU pricing). All facts below are backed by those captures.
 
 ## Identity
 - Name: Arduino VENTUNO Q — "edge AI computer", UNO form factor, 160×100×25.8 mm
-- SKU ABX00181, barcode 7630049205949
-- Price at capture: €419,55 (VAT incl.), pre-order, free 65W USB-C PSU + cable promo
-- We own 3 units (purchased 2026-10)
+- **One SKU, no variants: ABX00181** (barcode 7630049205949) — unlike UNO Q (2GB/4GB split), every VENTUNO Q is the same 16 GB/64 GB board
+- Our units: purchased from store-usa.arduino.cc at $399.00 each, pre-order at capture (free 65W USB-C PSU + 24-pin cable promo; max-2-per-order cap noted there — Illia ordered 3)
 
 ## Dual-Brain architecture
 | Brain | Chip | Specs |

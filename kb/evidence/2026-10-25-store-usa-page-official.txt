@@ -1,0 +1,254 @@
+Skip to content
+Products
+Use Cases
+New Products
+Arduino Cloud Plans
+Sign In
+Free shipping on orders over $50 to a shipping address within the contiguous United States!
+Home 
+ Arduino®️ VENTUNO™ Q
+Click to expand
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arduino®️ VENTUNO™ Q
+PRE-ORDER!
+ (10)
+SKU ABX00181 Barcode 7630049205949  Show more
+Current price
+$399.00
+This is a pre-order. Available for delivery in 3/4 weeks time
+Quantity
+PRE ORDER
+ADD TO WISHLIST
+You can only purchase a maximum of 2 Ventuno Q. We will fulfill your order as soon as all products become available.
+Get your FREE accessories
+1 Arduino®️ VENTUNO™ Q
+$399.00
+1x
+Arduino USB-C Power Supply (65W)
+FREE
+$28.00
+1x
+Arduino USB-C Cable (24 Pin)
+FREE
+$5.79
+2 Arduino®️ VENTUNO™ Q
+$798.00
++4 FREE GIFT
+$67.58
+
+VENTUNO Q is the edge-AI powerhouse that senses, decides, and acts – on a single board. Running LLMs and agentic AI offline, with 40 dense TOPS of NPU acceleration. Real-time MCU control. Your gateway to physical AI.
+
+Share this:
+Share on Facebook
+ 
+Tweet on Twitter
+ 
+Share on LinkedIn
+ 
+Pin on Pinterest
+Overview
+
+Built around a dual-brain architecture that pairs a Qualcomm Dragonwing™ IQ8 processor with a dedicated STM32H5 real-time microcontroller, VENTUNO Q doesn’t just interpret the world, it interacts with it. So you get sensing, decision, and action all on one board, on the edge, offline.
+The AI brain with pre-loaded Linux delivers up to 40 dense TOPS of NPU acceleration for vision models, LLMs, and multi-modal AI inference. The action brain runs the Arduino Core on Zephyr RTOS, enabling sub-millisecond, deterministic control of motors, CAN-FD, PWM, and GPIO. The two communicate seamlessly via an RPC bridge: no multi-device complexity, no latency penalty, no compromise.
+It’s the most powerful Arduino platform to date, offering 16 GB LPDDR5 RAM and 64 GB industrial-grade eMMC with expandable M.2 NVME Gen.4 port. On the MPU side, it runs standard Ubuntu (and Debian coming soon) Linux. Yet it maintains the openness, versatility, and ease of use that Arduino has become synonymous with. Docker and apt are already installed and available on the board, and you can program with VS Code, your own IDE, native Linux tools — whatever workflow your team already uses. You're never locked into it. 
+
+Purpose-built for robotics and industrial edge AI
+
+VENTUNO Q is engineered for systems that move, manipulate, and respond with precision. ROS 2 compatibility, real-time CAN-FD and PWM control, triple MIPI-CSI camera inputs for 360° vision, and 2.5 Gb Ethernet are all built in. Typical applications include:
+
+Autonomous mobile robots, drones, and pick-and-place arms – with vision-guided manipulation and Visual SLAM.
+Industrial edge AI for predictive maintenance, process automation, and energy monitoring.
+Local intelligence that processes data on-device, for anything from traffic monitoring in smart cities to responsive environments in connected homes.
+Automated quality inspection with local VLMs for on-premises defect detection.
+Education and research platforms for computer vision, generative AI, and embedded systems at any level.
+One board. Three ways to build with AI
+Ready to run. A curated library of AI models, fully optimized for the IQ8 NPU via Qualcomm AI Hub, is available out of the box with no configuration required. The current library includes: Qwen 3 4B LLM; Qwen 2.5 7B and 3 4B VLM; Gemma 4 E2B and E4B; Whisper ASR; Melo and Piper TTS; YoloX small object detection; and MediaPipe gesture recognition. Additional models and Bricks are added continuously.
+Bring your own model. Upload a GGUF-format model from Hugging Face or Qualcomm AI Hub directly via the llama.cpp Brick in Arduino App Lab and build on it immediately – compatible with the full open-weight ecosystem, no framework migration required.
+Train your own model. Use the integrated Edge Impulse Studio to train and quantize custom models, optimized for the Dragonwing IQ8 NPU and deployed directly into Arduino App Lab with one click.
+From prototype to production
+
+VENTUNO Q is built for industrial standards and designed to go beyond the bench. When a VENTUNO Q prototype is ready for commercial deployment, the same Dragonwing IQ8 architecture will be available as production-certified SOMs from select Dragonwing IQ8 certified partners. The software stack, AI models, and application logic developed on VENTUNO Q carry forward directly – no hardware re-architecture required.
+
+Arduino® App Lab a unified experience (but not your only option!)
+
+You can program VENTUNO Q with the tools you are used to. Or you can enjoy the all-new Arduino App Lab, for an integrated development environment that unifies the journey across Linux and real-time OS.
+Preloaded on VENTUNO Q, Arduino App Lab combines Arduino Sketches, Python scripts, and containerized AI models into fully integrated applications all managed from a single interface.
+
+Ready-to-use Apps and Bricks. Get started fast with Arduino Apps, self-contained examples with everything you need. Add plug-and-play features to your projects with pre-built Bricks to accelerate your ideas even more.
+Pre-loaded AI Models. With pre-loaded AI models in Arduino App Lab, you can leverage the real-world data for a wide range of capabilities such as object/human detection, anomaly detection, image classification, sound recognition, and keyword spotting.
+
+Find out more in our official documentation.
+
+Need Help?
+
+Check the Arduino Forum for questions about the Arduino Language or how to make your own Projects with Arduino. If you need any help with your product, please contact the official Arduino User Support through our Contact us page.
+
+Warranty
+
+You can find your product warranty information here.
+
+Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. 
+Arduino, VENTUNO, and the Arduino logo are trademarks or registered trademarks of Arduino S.r.l.
+
+Tech Specs
+Microprocessor (MPU)	
+Qualcomm Dragonwing™ IQ8 (QCS8275):
+Octa-core Kryo Gen 6 CPU
+Adreno 623 GPU
+Hexagon Tensor AI Processor (NPU): up to 40 Dense TOPS
+Qualcomm Spectra 692 690 ISP
+
+Microcontroller (MCU)	
+STM32H5F5:
+Arm® Cortex® M33 at 250MHz
+4MB flash
+1.5MB RAM
+
+RAM	
+2x8GB LPDDR5
+
+Storage	
+64GB eMMC
+M.2 connector for NVME Gen.4 external storage
+
+Connectivity	
+Wi-Fi® 6 2.4/5/6 GHz with onboard antenna
+Bluetooth® 5.3 with onboard antenna
+1x 2.5Gbit RJ45 Ethernet
+
+USB	
+1x USB-C port with host/device role switching, power role switch and video output
+2x USB 3.0 Type A
+2x USB 3.0 on JOMEGA header
+
+Camera	
+USB camera support
+3x MIPI CSI connectors muxed with 2x MIPI CSI on JMEDIA header
+
+Video	
+1x HDMI muxed with MIPI DSI on JMEDIA header
+Video output (DP Alt mode) support via USB-C
+MIPI DSI pins on JMEDIA header
+
+Audio	
+2x Microphone IN / Headphone OUT / Ear OUT / Line OUT on JMISC header
+
+CAN	
+1x CAN-FD PHY on screw terminal
+3x CAN-FD (no PHY) on JOMEGA header
+1x CAN-FD (no PHY) on UNO Shield headers
+
+Interfaces	
+I2C/I3C
+SPI
+PWM
+UART
+4x RGB user-controllable LEDs
+8x13 Blue LED Matrix
+1x Qwiic connector voltage 3V3, I2C
+1x User push-button
+1x reset button
+JCTL: MPU Remote Debug connector
+JTAG port on JOMEGA
+
+Power Supply	
+From USB-C connector 5 VDC max at 3 A
+5.5x2.1 mm Power Jack 12-24 VDC
+Screw Terminal 7-24 VDC
+7-24 V on JOMEGA
+
+Temperature Range	
+Commercial Temperature Range: -10 °C to +60 °C (14 °F to 140 °F)
+
+Dimensions	
+160x100x25.8 mm
+Conformities
+The following Declarations of Conformities have been granted for this board:
+CE
+RoHS
+REACH
+WEEE
+UKCA
+FCC
+RCM
+IC
+MIC
+NCC
+SRRC
+WPC
+Bluetooth
+For any further information about our certifications please visit docs.arduino.cc/certifications
+Documentation
+
+DATASHEET IN .PDF
+
+ 
+
+Learn More
+ARDUINO DOCS
+For the full technical documentation, tutorials and much more, visit Arduino Docs
+Get Inspired
+Inspired by your shopping trends
+NEW!
+Arduino USB-C Power Supply (65W)
+Arduino
+
+1 Review
+
+$28.00
+5.0
+Arduino® UNO™ Q 2GB
+Arduino
+
+83 Reviews
+
+$59.00
+4.6
+COMING SOON!
+Arduino USB-C Cable (24 pin)
+Arduino
+
+5 Reviews
+
+$5.79
+5.0
+Arduino® UNO™ Q 4GB
+Arduino
+
+69 Reviews
+
+$79.00
+4.7
+Region
+Back to top
+FOLLOW US
+NEWSLETTER
+SUBSCRIBE
+Shipping Policy
+Payment Methods
+Sales Conditions
+Distributors
+ASK FOR SUPPORT
+© 2026 Arduino S.r.l. - Partita IVA 09755110963
+Terms & Conditions
+Privacy Policy
+Security
+Refund Policy
+Cookie Settings
+Your Cart
+
+
+
+
+Continue shopping
+Timothy S.
+So far it's looking to be a great board in...
+Arduino®️ VENTUNO™ Q
